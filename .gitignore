@@ -1,0 +1,7 @@
+*.xlsx
+*.txt
+/example.py
+/parse.py
+/parseNew.py
+/makeDraw.py
+/drawTemplateFinal.xltx
